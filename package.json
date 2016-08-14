@@ -1,0 +1,30 @@
+{
+  "name": "ariutta-test-helpers",
+  "version": "1.0.0",
+  "description": "Test helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariutta/test-helpers.git"
+  },
+  "author": "Anders Riutta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariutta/test-helpers/issues"
+  },
+  "homepage": "https://github.com/ariutta/test-helpers#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "colors": "^1.1.2",
+    "pretty-data": "^0.40.0",
+    "rx-fs": "^1.0.0-alpha.2",
+    "sinon": "^1.17.5",
+    "tower-strcase": "^0.5.0",
+    "yargs": "^4.8.1"
+  }
+}
