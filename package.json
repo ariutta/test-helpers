@@ -1,5 +1,5 @@
 {
-  "name": "ariutta-test-helpers",
+  "name": "test-helpers",
   "version": "1.0.0",
   "description": "Test helpers",
   "main": "index.js",
